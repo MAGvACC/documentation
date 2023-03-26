@@ -2,7 +2,7 @@
 site_name: Morocco vACC Documentation
 site_url: https://docs.vatsim.ma
 site_author: Ali Badreldeen & Bobbie Chell
-edit_uri: edit/main/docs/
+edit_uri: ""
 copyright: Copyright © 2023 Morocco vACC
 
 plugins:
