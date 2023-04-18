@@ -2,3 +2,4 @@ nav:
     - Welcome: index.md
     - Pilots: pilots
     - Controllers: controllers
+    - Military: military
