@@ -42,11 +42,11 @@ extra:
       link: https://www.instagram.com/moroccovacc/
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/MoroccoVacc
+    - icon: fontawesome/brands/discord
+      link: https://community.vatsim.net/servers
     - icon: material/home
       link: https://vatsim.ma
       name: Home
-    - icon: fontawesome/brands/discord
-      link: https://community.vatsim.net/servers
   version:
     provider: mike
 
