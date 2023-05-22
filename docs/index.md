@@ -7,3 +7,7 @@ Welcome to the Morocco vACC Documentation, your one-stop shop for information ab
 Our documentation is made to give you access to the most recent information and procedures related to flying in Moroccan airspace, including airport briefings, ATC policies and procedures and any other pertinent information.
 
 We appreciate your decision to join us, and we trust that using our documentation will make your experience on the VATSIM network go smoothly.
+
+!!! info ""
+
+    Please note that the structure & content of this site is NOT final.
