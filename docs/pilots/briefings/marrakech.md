@@ -143,7 +143,7 @@ To prevent problems with inaccurate data, please make sure you have the most rec
 
 ### Aprons and Parking
 
-<figure class="image image_resized" style="width:100%;"><img src="https://www.vatsim.ma/wp-content/uploads/2023/05/gmmx.png">
+<figure class="image image_resized" style="width:100%;"><img src="https://www.vatsim.ma/wp-content/uploads/2023/05/gmmx-1.png">
 </figure>
 
 ## Departures
