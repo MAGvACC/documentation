@@ -45,6 +45,8 @@ extra:
     - icon: material/home
       link: https://vatsim.ma
       name: Home
+    - icon: fontawesome/brands/discord
+      link: https://community.vatsim.net/servers
   version:
     provider: mike
 
