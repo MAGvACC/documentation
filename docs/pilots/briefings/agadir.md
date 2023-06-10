@@ -152,7 +152,7 @@ To prevent problems with inaccurate data, please make sure you have the most rec
 
 <blockquote>
 <div class="text">
-  <p><span style="color:rgb(170,0,0);">GMMX_DEL:</span>&emsp;"Royal Air Maroc 424, start up time at 1312 (TSAT 13:12z), report aircraft ready"</p>
+  <p><span style="color:rgb(170,0,0);">GMAD_DEL:</span>&emsp;"Royal Air Maroc 424, start up time at 1312 (TSAT 13:12z), report aircraft ready"</p>
   <p><span style="color:rgb(170,0,0);">RAM424:</span>&emsp;"Wilco, Royal Air Maroc 424"</p>
 </div>
 </blockquote>
