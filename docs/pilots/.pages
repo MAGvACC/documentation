@@ -1,3 +1,4 @@
 nav:
     - Pilots: index.md
-    - Briefings: briefings
+    - Sectors: sectors
+    - Aerodromes: aerodromes
