@@ -17,7 +17,7 @@ theme:
     text: Lato
   palette:
     scheme: marvacc
-  logo: https://images-ext-2.discordapp.net/external/pIv8CpgEbbIyJiW8IvkGZwYP6ZGGUyQFmLRY-KtphKc/https/www.vatsim.ma/wp-content/uploads/2023/02/favicon.png
+  logo: https://cdn.discordapp.com/attachments/991795403093721108/1118961763577237514/test.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -30,7 +30,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-  favicon: https://images-ext-2.discordapp.net/external/pIv8CpgEbbIyJiW8IvkGZwYP6ZGGUyQFmLRY-KtphKc/https/www.vatsim.ma/wp-content/uploads/2023/02/favicon.png
+  favicon: https://cdn.discordapp.com/attachments/991795403093721108/1118961763577237514/test.png
 
 extra_css:
   - stylesheets/marvacc.css
