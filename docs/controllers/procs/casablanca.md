@@ -51,7 +51,7 @@ With just under 8 million passengers passing through the airport in 2014, it was
       <td class="foo"><em>TMA Casablanca</em></td>
       <td><em class="foo">GMMN_APP</em></td>
       <td><em class="foo">D</em></td>
-      <td><em class="foo">2 000 ft - FL 195</em></td>
+      <td><em class="foo">6 500 ft - FL 195</em></td>
     </tr>
     <tr>
       <td class="foo"><em>SECTEUR NORD</em></td>
