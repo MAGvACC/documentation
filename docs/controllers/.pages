@@ -1,4 +1,5 @@
 nav:
     - Controllers: index.md
     - Procedures: procs
+    - Mats: mats
     - LoAs: loa
