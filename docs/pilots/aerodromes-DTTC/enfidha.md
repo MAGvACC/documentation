@@ -17,6 +17,10 @@ dateCreated: 2023-02-27T23:54:00.000Z
 
 ### Charts
 
+<p>It is important to have the latest version of the charts when flying. Through the Tunisia eAIP, you can get a set of charts for Algiers Houari.</p>
+
+<p>As part of your planning and preparation for your flight, we encourage you to review these charts. They are directly accessible <a href="http://www.oaca.nat.tn/index.php?id=763&L=2"><u>here</u></a>.</p>
+
 ### AIRAC
 
 To prevent problems with inaccurate data, please make sure you have the most recent AIRAC cycle installed before your next flight.
