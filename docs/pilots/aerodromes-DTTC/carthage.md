@@ -15,6 +15,24 @@ dateCreated: 2023-02-27T23:54:00.000Z
 
 ### Scenery
 
+<p>Scenery usage is strongly recommended. Here is the selection of scenery that we suggest you use when flying into or out of Carthage!</p>
+<details>
+<summary>Recommended Sceneries</summary>
+<details>
+<summary>Microsoft Flight Simulator</summary>
+<li><a target="_blank" href="https://secure.simmarket.com/prealsoft-tunis-carthage-airport-dtta-msfs.phtml">Paid: PrealSoft</a></li>
+</details>
+<details>
+<summary>Prepar3D</summary>
+<li><a target="_blank" href="https://secure.simmarket.com/prealsoft-tunis-carthage-airport-p3d5.phtml">Paid: PrealSoft (P3D v5)</a></li>
+<li><a target="_blank" href="https://secure.simmarket.com/prealsoft-tunis-carthage-airport-dtta-p3d4.phtml">Paid: PrealSoft (P3D v4)</a></li>
+</details>
+<details>
+<summary>X-Plane</summary>
+<li><a target="_blank" href="https://forums.x-plane.org/index.php?/files/file/48904-dtta-tunis-carthage-airporttunisia/">Free: Risuali</a>
+</details>
+</details>
+
 ### Charts
 
 <p>It is important to have the latest version of the charts when flying. Through the Tunisia eAIP, you can get a set of charts for Algiers Houari.</p>
