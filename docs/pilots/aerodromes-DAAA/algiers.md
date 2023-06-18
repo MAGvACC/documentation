@@ -35,7 +35,7 @@ dateCreated: 2023-02-27T23:54:00.000Z
 
 ### Charts
 
-<p>It is important to have the latest version of the charts when flying. Through the Morocco eAIP, you can get a set of charts for Algiers Houari.</p>
+<p>It is important to have the latest version of the charts when flying. Through the Algeria eAIP, you can get a set of charts for Algiers Houari.</p>
 
 <p>As part of your planning and preparation for your flight, we encourage you to review these charts. They are directly accessible <a href="https://www.sia-enna.dz/aeronautical-information-publication.html"><u>here</u></a>.</p>
 
@@ -70,7 +70,76 @@ To prevent problems with inaccurate data, please make sure you have the most rec
 
 ### Runways
 
+<table>
+  <thead>
+    <tr>
+      <th>RWY</th>
+      <th>TORA</th>
+      <th>ADSA</th>
+      <th>TODA</th>
+      <th>LDA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="foo"><em>05</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>23</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+    </tr>
+        <tr>
+      <td class="foo"><em>09</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+    </tr>
+        <tr>
+      <td class="foo"><em>27</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,810 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+      <td><em class="foo">3,500 m</em></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Frequencies
+
+<table>
+  <thead>
+    <tr>
+      <th>Designator</th>
+      <th>Callsign</th>
+      <th>Frequency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="foo"><em>APP</em></td>
+      <td><em class="foo">Algiers Approach</em></td>
+      <td><em class="foo">121.400 MHz</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>TWR</em></td>
+      <td><em class="foo">Algiers Tower</em></td>
+      <td><em class="foo">118.700 MHz</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>ATIS</em></td>
+      <td><em class="foo">Algiers Information</em></td>
+      <td><em class="foo">128.525 MHz</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Aprons and Parking
 
