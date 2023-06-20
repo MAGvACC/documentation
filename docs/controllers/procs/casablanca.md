@@ -691,4 +691,4 @@ Aircraft must be transferred to the appropriate ACC controller at the designated
 
 Effective coordination between Casablanca ACC and Approach is essential for efficient management of arrivals into GMMN airport. Tactical directs are often issued early on to establish a sequence for arrivals, who typically do not fly STARs and are instead sequenced via various arrival points. They are subsequently vectored to align with the final approach. On occasion, arrivals may be assigned the STAR but then vectored prior to reaching the Initial Approach Fix (IAF).
 
-During periods of high traffic, arrivals will be cleared to FL160 and transferred to Approach passing FL200 to alleviate the controller's workload. However, in normal operating conditions, the default procedure is for arrivals to be cleared to FL200 and transferred to approaching FL210.
+During periods of high traffic, arrivals will be cleared to FL160 and transferred to Approach passing FL200 to alleviate the controller's workload. However, in normal operating conditions, the default procedure is for arrivals to be cleared to FL200 and transferred to approach when the aircraft is approaching FL210.
