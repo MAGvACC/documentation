@@ -538,7 +538,7 @@ In the vicinity of the aerodrome traffic zone, traffic shall report their entry/
 VFR traffic shall be cleared using the most appropriate VFR route on track to the destination, in accordance with the published VFR routes.
 
 <blockquote>
-“CN-BOB, after departure runway 35L, turn right KOSAD, 1 500 ft, VFR”.
+“CN-BOB, after departure runway 35L, turn right KOSAD, 1 700 ft, VFR”.
 </blockquote>
 
 Only after prior coordination with Approach shall traffic that requests clearance to climb into the TMA be released. If not, they will be instructed to remain outside of controlled airspace after exiting the control zone and to squawk the VFR standard code”.
@@ -552,12 +552,12 @@ Only after prior coordination with Approach shall traffic that requests clearanc
 VFR aircraft wishing to do circuits at Casablanca shall receive clearance in the following format:
 
 <blockquote>
-“CN-BOB, runway 35L, standard circuit, 1 500 ft, VFR”.
+“CN-BOB, runway 35L, standard circuit, 1 700 ft, VFR”.
 </blockquote>
 
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with Tower and shall either be assigned right-hand patterns for runway 17R or standard circuits (left-hand) for runway 35L.
 
-Circuit direction should be assigned to prevent aircraft from overflying the airport and shall be conducted at an altitude of 1 500 ft. Aircraft may also be cleared to conduct circuits at 2 000 ft if required for high-performance aircraft.
+Circuit direction should be assigned to prevent aircraft from overflying the airport and shall be conducted at an altitude of 1 700 ft. Aircraft may also be cleared to conduct circuits at 2 000 ft if required for high-performance aircraft.
 
 #### Arrivals
 
