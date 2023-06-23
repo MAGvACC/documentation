@@ -1,4 +1,4 @@
-mkdocs-material==9.1.16
+mkdocs-material==9.1.17
 mkdocs-awesome-pages-plugin
 mkdocs-redirects
 mkdocs-exclude-search
