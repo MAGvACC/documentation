@@ -21,4 +21,5 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mike
+      - run: pip install git-revision-date-localized
       - run: mkdocs gh-deploy --force
