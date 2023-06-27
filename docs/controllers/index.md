@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This section will provide all standardised ATC operations in Maghreb airspace on VATSIM.
+This section will provide all standardised ATC operations in the Maghreb airspace on VATSIM.
 
 All information and procedures described are for VATSIM use only and must not be used for real-world applications.
 
