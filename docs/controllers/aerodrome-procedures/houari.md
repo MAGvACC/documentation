@@ -4,7 +4,7 @@
 
 ATC members are expected to practise the defined procedures when controlling on VATSIM in the Alger FIR, although are free to deviate from standardised procedures to ensure a safe, orderly and expeditious flow of traffic is maintained.
 
-# Particulars
+## Particulars
 
 ## Aerodrome Description
 
