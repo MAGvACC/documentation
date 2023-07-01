@@ -8,21 +8,44 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
 
 ### Airspace Boundaries and Classes
 
-| Class | Type of Flight | Separation |
-|-------|----------------|------------|-------------|
-| A     | IFR only       | separation from all aircraft |
-| B     | IFR            | separation from all aircraft |
-| VFR   | separation from all aircraft |
-| C     | IFR            | separation from all aircraft |
-| VFR   | separation from IFR but only traffic info about VFR |
-| D     | IFR            | separation from IFR but only traffic info about VFR |
-| VFR   | traffic info only |
-| E     | IFR            | separation from IFR only – traffic info about VFR [1] |
-| VFR   | traffic info only [1] |
-| F     | IFR            | separation from IFR only [1] [2] |
-| VFR   | no             | no [3] |
-| G     | IFR            | no | yes |
-| VFR   | no             | no [3] |
+<table>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>IFR flights only are permitted, all flights are subject to air traffic control service and are separated from each other</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>IFR and VFR flights are permitted, all flights are subject to air traffic control service and are separated from each other</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>IFR and VFR flights are permitted, all flights are subject to air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights.</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td>IFR and VFR flights are permitted and all flights are subject to air traffic control service. IFR flights are separated from other IFR flights and receive traffic information in respect of VFR flights. VFR flights receive traffic information in respect of all other flights.</td>
+    </tr>
+    <tr>
+      <td>E</td>
+      <td>IFR and VFR flights are permitted, IFR flights are subject to air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical.</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>IFR and VFR flights are permitted, all participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested.</td>
+    </tr>
+    <tr>
+      <td>G</td>
+      <td>IFR and VFR flights are permitted and receive flight information service if requested.</td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>
@@ -49,7 +72,7 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
     <tr>
       <td class="foo"><em>CTA Tunis North East</em></td>
       <td><em class="foo">DTTC_CTR</em></td>
-      <td><em class="foo">A<br>D</em></td>
+      <td><em class="foo">A<br>B<br></em></td>
       <td><em class="foo">SFC - FL 195<br>FL 195 - FL 460<br></em></td>
     </tr>
   </tbody>
