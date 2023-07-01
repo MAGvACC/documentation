@@ -72,7 +72,7 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
     <tr>
       <td class="foo"><em>CTA Tunis North East</em></td>
       <td><em class="foo">DTTC_CTR</em></td>
-      <td><em class="foo">A<br>B<br></em></td>
+      <td><em class="foo">A<br>D<br></em></td>
       <td><em class="foo">SFC - FL 195<br>FL 195 - FL 460<br></em></td>
     </tr>
   </tbody>
@@ -139,7 +139,7 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
       <td><em class="foo">3.2° East</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>Transition altitude</em></td>
+      <td class="foo"><em>Transition Altitude</em></td>
       <td><em class="foo">6 000 ft</em></td>
     </tr>
   </tbody>
@@ -419,45 +419,46 @@ Tower shall also ensure separation between IFR aircraft that are arriving at and
 Tower determines the direction of operations. Runway configurations should not be mixed and arrivals and departures should remain segregated.
 
 If a Northern Runway Configuration is being used:
-Up to a tailwind component of less than or equal to 5 KT, RWY 35R/L is to be used.
+The crosswind component, including gusts, is less or equal to 15 kt for dry RWY and less or equal to 10 kt for wet or contaminated RWY.
+OR
+The wind is calm or bisecting and the traffic allows it.
 
 If a Southern Runway Configuration is being used:
-Up to a tailwind component of less than or equal to 15 KT if RWY is DRY. Up to a tailwind component of less than or equal to 10 KT if RWY is Wet/Contaminated.
+The crosswind component, including gusts, is less or equal to 15 kt for dry RWY and less or equal to 10 kt for wet or contaminated RWY.
+OR
+The tail wind component, including gusts, is less than 5 kt.
 
 ### Departure Procedures
-
-As part of the take-off clearance, Tower shall include instructions for the pilot to contact Approach on the designated frequency once airborne.
 
 A conditional clearance is a clearance issued by an air traffic controller which does not become effective until a specified condition has been satisfied. Conditional line up instructions must include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 
 <blockquote>
 "Syphax 14 Tango, behind the departing company Airbus A320, line-up and wait, runway 01, behind".
 </blockquote>
-----------------------------------
 However, if the aircraft ahead is already well clear, the next aircraft may be instructed simply to: “line-up and wait.”
 
 #### Separation Requirements
 
-Aircraft shall be separated on departure in compliance with standard IFR departure wake turbulence separation requirements. Departures with the same flow point must be separated by at least 7 NM or the appropriate wake turbulence requirement, whichever is greater. A greater separation needs to be coordinated between the radar controller and TWR. 
+Aircraft shall be separated on departure in compliance with standard IFR departure wake turbulence separation requirements. Departures with the same flow point must be separated by at least XXX NM or the appropriate wake turbulence requirement, whichever is greater. A greater separation needs to be coordinated between the radar controller and TWR. 
 
-All fixed-wing IFR departures with the same TMA flow point shall be transferred to Approach with 7 NM in trail. For separation of 7 NM, the proceeding traffic needs to be 4-5 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
+All fixed-wing IFR departures with the same TMA flow point shall be transferred to Approach with XXX NM in trail. For separation of XXX NM, the proceeding traffic needs to be 4-5 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
 
-If the distance ends up being less than 7 NM but more than 3NM (ensured), coordination is required and avoiding action to be taken by the pilot is given when the controller considers that an imminent risk
+If the distance ends up being less than XXX NM but more than XXXNM (ensured), coordination is required and avoiding action to be taken by the pilot is given when the controller considers that an imminent risk
 a collision will exist if action is not taken immediately.
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence or flow separation minima exist.
 
 <blockquote>
-"Royal Air Maroc 810 delta, wind 070 degrees, 12 knots, runway 35L, cleared for take-off".
+"Syphax 14 Tango, initially 4000 feet, runway 01, cleared take-off, wind 280 degrees, 09 knots".
 </blockquote>
 
-When traffic is clear of DER (if there is no WTS minima) or the respective minima between the two aircraft, a departure may be cleared for aircraft that do not require separation along the same flow point or a WTS minima greater than 7 NM. However, the controller shall provide traffic information as appropriate to ensure traffic is separated upon TMA entry.
+When traffic is clear of DER (if there is no WTS minima) or the respective minima between the two aircraft, a departure may be cleared for aircraft that do not require separation along the same flow point or a WTS minima greater than XXX NM. However, the controller shall provide traffic information as appropriate to ensure traffic is separated upon TMA entry.
 
 <blockquote>
-"Royal Air Maroc 810 delta, wind 070 degrees, 12 knots, runway 35L, cleared for take-off, proceeding traffic ATR-600".
+"Syphax 14 Tango, initially 4000 feet, runway 01, cleared take-off, wind 280 degrees, 09 knots, proceeding traffic ATR-600".
 </blockquote>
 
-ADC shall use caution when departing aircraft with different speed profiles and is fully responsible for ensuring that horizontal or vertical separation exists at all times. It is thus advised that a VFR aircraft on a visual climbout must turn more than 45° from the runway track in order to allow succeeding IFR traffic to depart with separation of less than 3 NM in trail.
+ADC shall use caution when departing aircraft with different speed profiles and is fully responsible for ensuring that horizontal or vertical separation exists at all times. It is thus advised that a VFR aircraft on a visual climbout must turn more than 45° from the runway track in order to allow succeeding IFR traffic to depart with separation of less than XXX NM in trail.
 
 #### Cancelling or Stopping a Take-off
 
@@ -465,7 +466,7 @@ IFR departures shall be instructed to contact the radar controller once airborne
 When an aircraft has commenced the take-off roll, and it is necessary for the aircraft to abandon take-off in order to avert a dangerous traffic situation, the aircraft should be instructed to stop immediately and the instruction and callsign repeated.
 
 <blockquote>
-"Royal Air Maroc 810 delta, stop immediately, Royal Air Maroc 810 delta, stop immediately".
+"Syphax 14 Tango, stop immediately, Syphax 14 Tango, stop immediately".
 </blockquote>
 
 For aircraft that have been given a take-off clearance, but have not yet started the roll, they shall be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
@@ -474,12 +475,12 @@ For aircraft that have been given a take-off clearance, but have not yet started
 
 The Approach controller is responsible for establishing longitudinal separation between arrivals until touchdown. If they fall below the separation minima, ADC has to instruct the pilot to go around. In this case, coordination with Approach is strongly recommended.
 
-The minimum separation between two aircraft approaching the same runway is always 7 NM or wake turbulence separation, whichever is higher.
+The minimum separation between two aircraft approaching the same runway is always XXX NM or wake turbulence separation, whichever is higher.
 
 If it is apparent that minimum separation is infringed, Tower may apply a speed reduction to maintain in order to ensure separation, however, controllers must use caution as proceeding arrival flows may be inconvenienced. As such, continuous coordination between Approach and Tower is highly recommended.
 
 <blockquote>
-"Royal Air Maroc 810 delta, reduce to minimum approach speed".
+"Syphax 14 Tango, reduce to minimum approach speed".
 </blockquote>
 
 Aircraft may be instructed to maintain their separation visually if speed control alone will not resolve the conflict. This shall only be done in VMC and with an agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
@@ -489,13 +490,13 @@ Aircraft may be instructed to maintain their separation visually if speed contro
 Instructions to carry out a missed approach may be given to avert an unsafe situation. When a missed approach is initiated, cockpit workload is inevitably high. Any transmissions to aircraft going around should be brief and kept to a minimum.
 
 <blockquote>
-"Royal Air Maroc 810 delta, go around".
+"Syphax 14 Tango, go around".
 </blockquote>
 
 Once the traffic has acknowledged the instruction and is observed to be safely climbing away, they shall be handed off to the Approach controller.
 
 <blockquote>
-"Royal Air Maroc 810 delta, fly runway heading, climb 4 000 ft, contact Mohammed V Approach 119.9".
+"Syphax 14 Tango, fly runway heading, climb 3 000 ft, contact Tunis Radar 121.200".
 </blockquote>
 
 In the case that there is a risk that the go-around aircraft will overtake the departing aircraft, instructions for avoiding action shall be given to the departing aircraft in the form of altitude restrictions. Additionally, if separation is infringed, each aircraft shall receive relevant traffic information, respectively. 
@@ -504,120 +505,30 @@ Departures shall not be permitted to commence their take-off roll until separati
 
 ### VFR Aircraft
 
-Entry, exit and transit VFR as well as special VFR routes are mandatory within the TMA.
-
-In the vicinity of the aerodrome traffic zone, traffic shall report their entry/exit at 2 000 ft or below.
-
 #### Departures
-
-VFR traffic shall be cleared using the most appropriate VFR route on track to the destination, in accordance with the published VFR routes.
-
-<blockquote>
-“CN-BOB, after departure runway 35L, turn right KOSAD, 1 700 ft, VFR”.
-</blockquote>
-
-Only after prior coordination with Approach shall traffic that requests clearance to climb into the TMA be released. If not, they will be instructed to remain outside of controlled airspace after exiting the control zone and to squawk the VFR standard code”.
-
-<blockquote>
-“CN-BOB, approaching KOSAD, contact Approach 119.900”.
-</blockquote>
 
 #### Aerodrome Traffic Circuits
 
-VFR aircraft wishing to do circuits at Casablanca shall receive clearance in the following format:
-
-<blockquote>
-“CN-BOB, runway 35L, standard circuit, 1 700 ft, VFR”.
-</blockquote>
-
-VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with Tower and shall either be assigned right-hand patterns for runway 17R or standard circuits (left-hand) for runway 35L.
-
-Circuit direction should be assigned to prevent aircraft from overflying the airport and shall be conducted at an altitude of 1 700 ft. Aircraft may also be cleared to conduct circuits at 2 000 ft if required for high-performance aircraft.
-
 #### Arrivals
-
-Aircraft may request either touch and go, a stop and go, a low approach, or a full stop.
-
-Once the Tower Controller is aware of the aircraft’s intentions within the control zone, they may be sequenced to the runway, with due consideration given to runway occupancy time.
-
-Aircraft on the downwind should be passed the following information:
-
-- Expected runway;
-- Sequence;
-- Traffic information if applicable
-
-Inbound VFR aircraft shall be sent to Tower with enough time such that two-way radio communications have been established before aircraft enter the ATZ.
-
-On initial contact, Tower will pass the instructions for joining the circuit, as well as any other pertinent information such as traffic information with the sector.
-
-<blockquote>
-“CN-BOB, runway 35L, enter ATZ via A5 Autoroute, VFR”.
-</blockquote>
-
-During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the control zone and instructed to hold outside of the CTR awaiting further instructions. Once a slot has been coordinated between Tower and Approach, VFR arrivals may proceed, however, the estimated delay must be given to the pilot if the clearance limit surpasses 5 minutes.
-
-<blockquote>
-“CN-BOB, hold outside of the CTR, expect onward clearance time 55”.
-</blockquote>
 
 ### Low Visibility Procedures (LVP)
 The three stages of Low Visibility Procedures are:
 
-<table>
-  <thead>
-    <tr>
-      <th>Factor</th>
-      <th>Preparation Stage</th>
-      <th>In-force Stage</th>
-      <th>Termination Stage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="foo"><em>RVR</em></td>
-      <td><em class="foo">1 000 m or less</em></td>
-      <td><em class="foo">Less than 800 m</em></td>
-      <td><em class="foo">More than 1 500 m and increasing</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>Cloud Base</em></td>
-      <td><em class="foo">Less than 400 ft</em></td>
-      <td><em class="foo">Less than 200 ft</em></td>
-      <td><em class="foo">More than 300 ft and increasing</em></td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-"Royal Air Maroc 1415, wind 070 degrees, 12 knots, runway 35L, cleared to land, runway visual range 650 metres, 700 metres and 600 metres”.
-</blockquote>
-
-Arriving aircraft should be given the easiest taxi route to allow them to clear the localiser-sensitive area expeditiously.
-
-Landing clearance shall not be issued until:
-
-- Preceding landing aircraft has vacated the localiser-sensitive area.
-- Preceding departing aircraft is airborne and has passed over the localiser antenna (DER).
-
-The Localiser Sensitive Area in front of an arriving aircraft shall not be infringed from the time it is 2 NM from the touchdown unit it has completed its landing roll.
-
-During Take-off in CAT II/III condition, the Localizer Sensitive Area in front of a departure aircraft shall not be infringed from the time take-off clearance is issued until the aircraft has departed and passed over DER/the stop end of the runway.
-
-## Mohammed V Approach
+## Tunis Approach
 
 ### General Provisions
 
-Mohammed V Approach (APP) is in charge of all traffic within the Casablanca TMA as well as the Casablanca CTR and is required to offer approach control services to aircraft from the time and location at which arriving aircraft are transferred from Casablanca ACC until control is transferred to ADC, departing aircraft on specific routes are transferred from ADC until they are transferred to Casablanca ACC or until an aircraft is clear of controlled airspace.
+Tunis Approach (APP) is in charge of all traffic within the Tunis CTA as well as the Tunis CTR and is required to offer approach control services to aircraft from the time and location at which arriving aircraft are transferred from Tunis ACC until control is transferred to ADC, departing aircraft on specific routes are transferred from ADC until they are transferred to Casablanca ACC or until an aircraft is clear of controlled airspace.
 
 Approach provides services suitable for approach control tasks and ensures uniform separation between Special VFR and IFR flights as well as between Special VFR flights.
 
 #### Separation Minima
 
-7 NM radar separation minima between all aircraft is to be applied by Approach.
+XXX NM radar separation minima between all aircraft is to be applied by Approach.
 
 ### Departures
 
-Departing aircraft shall be cleared to their final level before handoff to ACC unless they were cleared to a lower altitude in their departure clearance and are to be handed off 2 minutes prior to reaching the vertical or lateral limits of the TMA.
+Departing aircraft shall be cleared to their final level before handoff to ACC unless they were cleared to a lower altitude in their departure clearance and are to be handed off 2 minutes prior to reaching the vertical or lateral limits of the CTA.
 
 When issuing deviations off track are required, Approach shall ensure departures are above MRVA or are able to maintain visual separation from the terrain.
 
@@ -625,45 +536,6 @@ Speed restrictions below FL100 may be cancelled by Approach in order to increase
 
 Aircraft must be transferred to the appropriate ACC controller at the designated flight levels:
 
-<table>
-  <thead>
-    <tr>
-      <th>COPX</th>
-      <th>Transfer Level</th>
-      <th>Coordination</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="foo"><em>NIKZO/FOBAC</em></td>
-      <td><em class="foo">FL120</em></td>
-      <td><em class="foo">Climbing between FL090 - FL100</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>ODAXA/LAKAM</em></td>
-      <td><em class="foo">FL120</em></td>
-      <td><em class="foo">Climbing between FL090 - FL100</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>TOLSI</em></td>
-      <td><em class="foo">FL150</em></td>
-      <td><em class="foo">Handoff initiated FL130B</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>SADIC</em></td>
-      <td><em class="foo">FL150</em></td>
-      <td><em class="foo">Climbing between FL110 - FL130</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>LACAJ</em></td>
-      <td><em class="foo">FL110</em></td>
-      <td><em class="foo">Handoff initiated at FL90</em></td>
-    </tr>
-  </tbody>
-</table>
-
 ### Arrivals
 
-Effective coordination between Casablanca ACC and Approach is essential for efficient management of arrivals into GMMN airport. Tactical directs are often issued early on to establish a sequence for arrivals, who typically do not fly STARs and are instead sequenced via various arrival points. They are subsequently vectored to align with the final approach. On occasion, arrivals may be assigned the STAR but then vectored prior to reaching the Initial Approach Fix (IAF).
-
-During periods of high traffic, arrivals will be cleared to FL160 and transferred to Approach passing FL200 to alleviate the controller's workload. However, in normal operating conditions, the default procedure is for arrivals to be cleared to FL200 and transferred to approach when the aircraft is approaching FL210.
+XXX
