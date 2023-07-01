@@ -8,6 +8,22 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
 
 ### Airspace Boundaries and Classes
 
+| Class | Type of Flight | Separation |
+|-------|----------------|------------|-------------|
+| A     | IFR only       | separation from all aircraft |
+| B     | IFR            | separation from all aircraft |
+| VFR   | separation from all aircraft |
+| C     | IFR            | separation from all aircraft |
+| VFR   | separation from IFR but only traffic info about VFR |
+| D     | IFR            | separation from IFR but only traffic info about VFR |
+| VFR   | traffic info only |
+| E     | IFR            | separation from IFR only – traffic info about VFR [1] |
+| VFR   | traffic info only [1] |
+| F     | IFR            | separation from IFR only [1] [2] |
+| VFR   | no             | no [3] |
+| G     | IFR            | no | yes |
+| VFR   | no             | no [3] |
+
 <table>
   <thead>
     <tr>
@@ -186,24 +202,17 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
     </tr>
     <tr>
       <td class="foo"><em>MARSA</em></td>
+      <td><em class="foo">3,700 ft / FL 100</em></td>
+      <td><em class="foo">040°</em></td>
+      <td><em class="foo">Left</em></td>
+      <td><em class="foo">01</em></td>
+    </tr>
+        <tr>
+      <td class="foo"><em>MARSA</em></td>
       <td><em class="foo">3,000 ft / FL 100</em></td>
       <td><em class="foo">040°</em></td>
       <td><em class="foo">Left</em></td>
-      <td><em class="foo">01, 11, 19, 29</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>OUTIK</em></td>
-      <td><em class="foo">3,000 ft</em></td>
-      <td><em class="foo">229°</em></td>
-      <td><em class="foo">Left</em></td>
-      <td><em class="foo">35L and 35R</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>GOLLA</em></td>
-      <td><em class="foo">4,000 ft / FL 100</em></td>
-      <td><em class="foo">229°</em></td>
-      <td><em class="foo">Left</em></td>
-      <td><em class="foo">35L and 35R</em></td>
+      <td><em class="foo">11<br>19<br>29</em></td>
     </tr>
   </tbody>
 </table>
@@ -221,16 +230,28 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
   </thead>
   <tbody>
     <tr>
-      <td class="foo"><em>17L/35R</em></td>
-      <td><em class="foo">3,717 x 45 m</em></td>
-      <td class="foo"><em>165° / 345°</em></td>
-      <td class="foo"><em>633 m / 656 m</em></td>
+      <td class="foo"><em>01</em></td>
+      <td><em class="foo">3,200 x 45 m</em></td>
+      <td class="foo"><em>008°</em></td>
+      <td class="foo"><em>4 m / 6 m</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>17R/35L</em></td>
-      <td><em class="foo">3,711 x 45 m</em></td>
-      <td><em class="foo">165° / 345°</em></td>
-      <td><em class="foo">640 m / 656 m</em></td>
+      <td class="foo"><em>19</em></td>
+      <td><em class="foo">3,200 x 45 m</em></td>
+      <td><em class="foo">189°</em></td>
+      <td><em class="foo">6 m / 6 m</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>11</em></td>
+      <td><em class="foo">2,850 x 45 m</em></td>
+      <td><em class="foo">107°</em></td>
+      <td><em class="foo">6 m</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>29</em></td>
+      <td><em class="foo">2,850 x 45 m</em></td>
+      <td><em class="foo">289°</em></td>
+      <td><em class="foo">4 m / 5 m</em></td>
     </tr>
   </tbody>
 </table>
@@ -249,52 +270,49 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
   </thead>
   <tbody>
     <tr>
-      <td class="foo"><em>17L</em></td>
-      <td><em class="foo">3,717 m</em></td>
-      <td><em class="foo">4,617 m</em></td>
-      <td><em class="foo">3,777 m</em></td>
-      <td><em class="foo">3,717 m</em></td>
+      <td class="foo"><em>01</em></td>
+      <td><em class="foo">3,200 m</em></td>
+      <td><em class="foo">3,260 m</em></td>
+      <td><em class="foo">3,200 m</em></td>
+      <td><em class="foo">3,200 m</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>35R</em></td>
-      <td><em class="foo">3,717 m</em></td>
-      <td><em class="foo">4,117 m</em></td>
-      <td><em class="foo">3,777 m</em></td>
-      <td><em class="foo">3,717 m</em></td>
+      <td class="foo"><em>19</em></td>
+      <td><em class="foo">3,200 m</em></td>
+      <td><em class="foo">3,260 m</em></td>
+      <td><em class="foo">3,200 m</em></td>
+      <td><em class="foo">3,200 m</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>17R</em></td>
-      <td><em class="foo">3,717 m</em></td>
-      <td><em class="foo">4,601 m</em></td>
-      <td><em class="foo">3,771 m</em></td>
-      <td><em class="foo">3,711 m</em></td>
+      <td class="foo"><em>11</em></td>
+      <td><em class="foo">2,850 m</em></td>
+      <td><em class="foo">2,850 m</em></td>
+      <td><em class="foo">2,850 m</em></td>
+      <td><em class="foo">2,850 m</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>35L</em></td>
-      <td><em class="foo">3,717 m</em></td>
-      <td><em class="foo">4,011 m</em></td>
-      <td><em class="foo">3,771 m</em></td>
-      <td><em class="foo">3,711 m</em></td>
+      <td class="foo"><em>29</em></td>
+      <td><em class="foo">2,850 m</em></td>
+      <td><em class="foo">2,910 m</em></td>
+      <td><em class="foo">2,850 m</em></td>
+      <td><em class="foo">2,650 m</em></td>
     </tr>
   </tbody>
 </table>
 
 ### Aprons and Parking
 
-<figure class="image image_resized" style="width:100%;"><img src="https://www.vatsim.ma/wp-content/uploads/2023/02/image.png">
-</figure>
-
-## Mohammed V Ground
+## Tunis-Carthage Ground
 
 ### General Provisions
 
-<p>The SMC controller’s callsign, for radio communication and coordination, is “Mohammed 5th Ground”.</p>
+<p>The SMC controller’s callsign, for radio communication and coordination, is “Tunis Ground”.</p>
 
-<p>The SMC controller is the first station for all departing aircraft (IFR/VFR) to call and is responsible for operations on the surface of Mohammed V International Airport, such as pushback/engine start-up, repositioning and taxi.</p>
+<p>The SMC controller is the first station for all departing aircraft (IFR/VFR) to call and is responsible for operations on the surface of Tunis-Carthage Airport, such as pushback/engine start-up.</p>
 
 ### En Route Clearance and Start-up
 
-<p>To prevent any unnecessary delays, pilots are provided with their start-up clearance along with their en route clearance. This clearance should conform to the following format and each of the following items must be read back.</p>
+<p>After requesting taxi clearance from the SMC controller, pilots are transferred to "Tunis Tower" for taxi instructions. While taxiing, the tower will provide their en-route clearance. This clearance should conform to the following format and each of the following items must be read back.</p>
 
 <p>An IFR clearance shall be in the following format:</p>
 
@@ -306,10 +324,18 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
 
 <blockquote>
 <div class="text">
-  <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Mohammed 5th Delivery, Royal Air Maroc 810 delta, information charlie, request start-up clearance to Frankfurt"</p>
-  <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Royal Air Maroc 810 delta, Mohammed 5th Delivery, start-up approved, cleared to Frankfurt, TOLSI3D departure, climb initally FL50, squawk 6403"</p>
-  <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Start-up approved, cleared to Frankfurt, TOLSI3D departure, climb initally FL50, squawk 6403, Royal Air Maroc 810 delta"</p>
-  <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Royal Air Maroc 810 delta, readback correct, report ready for pushback."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Tunis Ground, Syphax 14 Tango, information november, request pushback & startup."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, Tunis Ground, start-up approved, report ready for pushback."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Ready for pushback, startup approved, Syphax 14 Tango."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, pushback approved facing West."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Pushback approved facing West, Syphax 14 Tango."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Syphax 14 Tango, request taxi."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, Tunis Tower, taxi bravo, echo, holding point RWY 01. QNH 1014."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Taxi bravo, echo, holding point RWY 01, QNH 1014, Syphax 14 Tango"</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Syphax 14 Tango, ready to copy ATC clearance."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, Cleared Destination, TOBIB2A, Level 100, Squawk 6137."</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Cleared Destination, TOBIB2A, Level 100, Squawk 6137, Syphax 14 Tango."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Correct."</p>
 </div>
 </blockquote>
 
@@ -327,8 +353,8 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
 
 <blockquote>
 <div class="text">
-  <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Royal Air Maroc 810 delta, start up time at 1415 (TSAT 14:15z), report aircraft ready"</p>
-  <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Wilco, Royal Air Maroc 810 delta"</p>
+  <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Syphax 14 Tango, start up time at 1415 (TSAT 14:15z), report aircraft ready"</p>
+  <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Wilco, Syphax 14 Tango"</p>
 </div>
 </blockquote>
 
@@ -338,7 +364,7 @@ The runway will be confirmed either prior to taxi or during the pushback clearan
 
 The pushback direction depends on the location of the aircraft and runway configuration.
 
-Example: "Royal Air Maroc 810 delta, pushback approved, face south, runway 35L”.
+Example: "Syphax 14 Tango, pushback approved, face south”.
 
 #### VFR Aircraft
 
@@ -346,15 +372,9 @@ VFR circuits shall not be permitted at the aerodrome during times of increased I
 
 ### Taxiway Usage and Restrictions
 
-Although there are no regulated taxi routes in Casablanca, it is advised that outbound traffic use outer-taxiways and incoming traffic use apron inner-taxiways.
+Although there are no regulated taxi routes in Tunis-Carthage, it is advised that outbound traffic use outer-taxiways and incoming traffic use apron inner-taxiways.
 
 To ensure a smooth taxi flow and avoid conflicting routes, it is recommended to utilise entries and exits in a unidirectional manner.
-
-#### Runway Crossings
-
-To allow sufficient time for receiving clearance to cross the runway, Ground must handoff traffic well before it reaches the holding point of 17L/35R. In order to expedite the flow of traffic, Ground may, subject to coordination and agreement with Tower, issue the runway crossing clearance in the taxi clearance.
-
-In any circumstance, it is expected that Ground will handoff traffic to Tower in advance.
 
 ### Runway Change Procedure
 
@@ -362,20 +382,24 @@ Tower shall provide ample notice to Ground before changing runway configuration.
 
 Aircraft that have already been cleared to taxi using the old configuration shall be re-cleared if they have not already reached the holding point.
 
-## Mohammed V Tower
+## Tunis-Tower
 
 ### General Provisions
 
-The aerodrome controller’s (ADC) callsign, for radio communication and coordination, is "Mohammed V Tower".
+The aerodrome controller’s (ADC) callsign, for radio communication and coordination, is "Tunis Tower".
 
-Tower is responsible for all aerodrome movements on runways and their associated taxiways and all operations within the Casablanca ATZ below 2 000 ft. 
+Tower is responsible for all aerodrome movements on runways, all taxiways and all operations within the Tunis CTR below 1 500 ft MSL. 
 
-Tower shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information about VFR flights operating within the aerodrome traffic zone.
+Tower shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information about VFR flights operating within the control zone.
 
 ### Runway Selection
 Tower determines the direction of operations. Runway configurations should not be mixed and arrivals and departures should remain segregated.
 
-Up to a tailwind component of less than or equal to 7 KT, RWY 35R/L is to be used.
+If a Northern Runway Configuration is being used:
+Up to a tailwind component of less than or equal to 5 KT, RWY 35R/L is to be used.
+
+If a Southern Runway Configuration is being used:
+Up to a tailwind component of less than or equal to 15 KT if RWY is DRY. Up to a tailwind component of less than or equal to 10 KT if RWY is Wet/Contaminated.
 
 ### Departure Procedures
 
@@ -384,9 +408,9 @@ As part of the take-off clearance, Tower shall include instructions for the pilo
 A conditional clearance is a clearance issued by an air traffic controller which does not become effective until a specified condition has been satisfied. Conditional line up instructions must include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission.
 
 <blockquote>
-"Royal Air Maroc 810 delta, behind the departing company Boeing 737-800, line-up and wait, runway 35L, behind".
+"Syphax 14 Tango, behind the departing company Airbus A320, line-up and wait, runway 01, behind".
 </blockquote>
-
+----------------------------------
 However, if the aircraft ahead is already well clear, the next aircraft may be instructed simply to: “line-up and wait.”
 
 #### Separation Requirements
