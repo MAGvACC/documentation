@@ -205,27 +205,6 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
       <td><em class="foo">Left</em></td>
       <td><em class="foo">35L and 35R</em></td>
     </tr>
-    <tr>
-      <td class="foo"><em>NASRO</em></td>
-      <td><em class="foo">6,000 ft / FL 130</em></td>
-      <td><em class="foo">177°</em></td>
-      <td><em class="foo">Right</em></td>
-      <td><em class="foo">-</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>NDB</em></td>
-      <td><em class="foo">3,000 ft / FL 130</em></td>
-      <td><em class="foo">114°</em></td>
-      <td><em class="foo">Right</em></td>
-      <td><em class="foo">17L and 17R</em></td>
-    </tr>
-    <tr>
-      <td class="foo"><em>VOR/DME</em></td>
-      <td><em class="foo">6,000 ft / FL 130</em></td>
-      <td><em class="foo">345°</em></td>
-      <td><em class="foo">Left</em></td>
-      <td><em class="foo">17L and 17R</em></td>
-    </tr>
   </tbody>
 </table>
 
