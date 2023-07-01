@@ -18,31 +18,31 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
   <tbody>
     <tr>
       <td>A</td>
-      <td>IFR flights only are permitted, all flights are subject to air traffic control service and are separated from each other</td>
+      <td>IFR only, subject to ATC and separated from all other traffic</td>
     </tr>
     <tr>
       <td>B</td>
-      <td>IFR and VFR flights are permitted, all flights are subject to air traffic control service and are separated from each other</td>
+      <td>IFR and VFR, subject to ATC and separated from all other traffic</td>
     </tr>
     <tr>
       <td>C</td>
-      <td>IFR and VFR flights are permitted, all flights are subject to air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights.</td>
+      <td>IFR and VFR, subject to ATC, IFR separated from other IFR and VFR, VFR separated from IFR and given traffic info on other VFR</td>
     </tr>
     <tr>
       <td>D</td>
-      <td>IFR and VFR flights are permitted and all flights are subject to air traffic control service. IFR flights are separated from other IFR flights and receive traffic information in respect of VFR flights. VFR flights receive traffic information in respect of all other flights.</td>
+      <td>IFR and VFR, subject to ATC, IFR separated from other IFR and given traffic info on VFR, VFR given traffic info on all traffic</td>
     </tr>
     <tr>
       <td>E</td>
-      <td>IFR and VFR flights are permitted, IFR flights are subject to air traffic control service and are separated from other IFR flights. All flights receive traffic information as far as is practical.</td>
+      <td>IFR and VFR, subject to ATC, IFR separated from other IFR, all traffic given traffic info as far as practical</td>
     </tr>
     <tr>
       <td>F</td>
-      <td>IFR and VFR flights are permitted, all participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested.</td>
+      <td>IFR and VFR, IFR given advisory service, all traffic given flight information service if requested</td>
     </tr>
     <tr>
       <td>G</td>
-      <td>IFR and VFR flights are permitted and receive flight information service if requested.</td>
+      <td>IFR and VFR, flight information service provided if requested</td>
     </tr>
   </tbody>
 </table>
