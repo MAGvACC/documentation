@@ -1,6 +1,6 @@
 nav:
     - Controllers: index.md
-    - Procedures: procedures
-    - Aerodrome Procedures: aerodrome-procedures
+    - ACCs: procedures
+    - Aerodromes: aerodrome-procedures
     - Mats: mats
     - LoAs: loa
