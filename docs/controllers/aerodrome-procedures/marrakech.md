@@ -31,7 +31,7 @@ Marrakech Menara Airport is located in the city of Marrakech, Morocco, approxima
       <td><em class="foo">SFC - 2 200 ft<br> 2 200 ft - FL 175</em></td>
     </tr>
     <tr>
-      <td class="foo"><em>SECTEUR NORD</em></td>
+      <td class="foo"><em>SECTEUR SUD</em></td>
       <td><em class="foo">GMMM_S_CTR</em></td>
       <td><em class="foo">G<br>C<br>G</em></td>
       <td><em class="foo">SFC - FL 195<br>FL 195 - FL 460<br>FL 460 - UNL</em></td>
