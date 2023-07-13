@@ -376,8 +376,8 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
 
 <blockquote>
 <div class="text">
-  <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Syphax 14 Tango, start up time at 1415 (TSAT 14:15z), report aircraft ready"</p>
-  <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Wilco, Syphax 14 Tango"</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, start up time at 1415 (TSAT 14:15z), report aircraft ready"</p>
+  <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Wilco, Syphax 14 Tango"</p>
 </div>
 </blockquote>
 
