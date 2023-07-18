@@ -439,11 +439,11 @@ However, if the aircraft ahead is already well clear, the next aircraft may be i
 
 #### Separation Requirements
 
-Aircraft shall be separated on departure in compliance with standard IFR departure wake turbulence separation requirements. Departures with the same flow point must be separated by at least XXX NM or the appropriate wake turbulence requirement, whichever is greater. A greater separation needs to be coordinated between the radar controller and TWR. 
+Aircraft shall be separated on departure in compliance with standard IFR departure wake turbulence separation requirements. Departures with the same flow point must be separated by at least 5 NM or the appropriate wake turbulence requirement, whichever is greater. A greater separation needs to be coordinated between the radar controller and TWR. 
 
-All fixed-wing IFR departures with the same TMA flow point shall be transferred to Approach with XXX NM in trail. For separation of XXX NM, the proceeding traffic needs to be 4-5 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
+All fixed-wing IFR departures with the same TMA flow point shall be transferred to Approach with 5 NM in trail. For separation of 5 NM, the proceeding traffic needs to be 2-3 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
 
-If the distance ends up being less than XXX NM but more than XXXNM (ensured), coordination is required and avoiding action to be taken by the pilot is given when the controller considers that an imminent risk
+If the distance ends up being less than 5 NM but more than 3 NM (ensured), coordination is required and avoiding action to be taken by the pilot is given when the controller considers that an imminent risk
 a collision will exist if action is not taken immediately.
 
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence or flow separation minima exist.
@@ -452,13 +452,13 @@ VFR aircraft may be instructed to maintain visual separation with preceding airc
 "Syphax 14 Tango, initially 4000 feet, runway 01, cleared take-off, wind 280 degrees, 09 knots".
 </blockquote>
 
-When traffic is clear of DER (if there is no WTS minima) or the respective minima between the two aircraft, a departure may be cleared for aircraft that do not require separation along the same flow point or a WTS minima greater than XXX NM. However, the controller shall provide traffic information as appropriate to ensure traffic is separated upon TMA entry.
+When traffic is clear of DER (if there is no WTS minima) or the respective minima between the two aircraft, a departure may be cleared for aircraft that do not require separation along the same flow point or a WTS minima greater than 5 NM. However, the controller shall provide traffic information as appropriate to ensure traffic is separated upon TMA entry.
 
 <blockquote>
 "Syphax 14 Tango, initially 4000 feet, runway 01, cleared take-off, wind 280 degrees, 09 knots, proceeding traffic ATR-600".
 </blockquote>
 
-ADC shall use caution when departing aircraft with different speed profiles and is fully responsible for ensuring that horizontal or vertical separation exists at all times. It is thus advised that a VFR aircraft on a visual climbout must turn more than 45° from the runway track in order to allow succeeding IFR traffic to depart with separation of less than XXX NM in trail.
+ADC shall use caution when departing aircraft with different speed profiles and is fully responsible for ensuring that horizontal or vertical separation exists at all times. It is thus advised that a VFR aircraft on a visual climbout must turn more than 45° from the runway track in order to allow succeeding IFR traffic to depart with separation of less than 5 NM in trail.
 
 #### Cancelling or Stopping a Take-off
 
@@ -475,7 +475,7 @@ For aircraft that have been given a take-off clearance, but have not yet started
 
 The Approach controller is responsible for establishing longitudinal separation between arrivals until touchdown. If they fall below the separation minima, ADC has to instruct the pilot to go around. In this case, coordination with Approach is strongly recommended.
 
-The minimum separation between two aircraft approaching the same runway is always XXX NM or wake turbulence separation, whichever is higher.
+The minimum separation between two aircraft approaching the same runway is always 5 NM or wake turbulence separation, whichever is higher.
 
 If it is apparent that minimum separation is infringed, Tower may apply a speed reduction to maintain in order to ensure separation, however, controllers must use caution as proceeding arrival flows may be inconvenienced. As such, continuous coordination between Approach and Tower is highly recommended.
 
@@ -524,7 +524,7 @@ Approach provides services suitable for approach control tasks and ensures unifo
 
 #### Separation Minima
 
-XXX NM radar separation minima between all aircraft is to be applied by Approach.
+5 NM radar separation minima between all aircraft is to be applied by Approach.
 
 ### Departures
 
