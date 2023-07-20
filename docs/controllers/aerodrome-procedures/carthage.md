@@ -352,13 +352,14 @@ Tunis-Carthage International Airport is located in the northeast of Tunis, the c
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Ready for pushback, startup approved, Syphax 14 Tango."</p>
   <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, pushback approved facing West."</p>
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Pushback approved facing West, Syphax 14 Tango."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, contact Tower 118.100"</p>
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Syphax 14 Tango, request taxi."</p>
-  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, Tunis Tower, taxi bravo, echo, holding point RWY 01. QNH 1014."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_TWR:</span>&emsp;"Syphax 14 Tango, Tunis Tower, taxi bravo, echo, holding point RWY 01. QNH 1014."</p>
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Taxi bravo, echo, holding point RWY 01, QNH 1014, Syphax 14 Tango"</p>
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Syphax 14 Tango, ready to copy ATC clearance."</p>
-  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Syphax 14 Tango, Cleared Destination, TOBIB2A, Level 100, Squawk 6137."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_TWR:</span>&emsp;"Syphax 14 Tango, Cleared Destination, TOBIB2A, Level 100, Squawk 6137."</p>
   <p><span style="color:rgb(170,0,0);">SYA14T:</span>&emsp;"Cleared Destination, TOBIB2A, Level 100, Squawk 6137, Syphax 14 Tango."</p>
-  <p><span style="color:rgb(170,0,0);">DTTA_GND:</span>&emsp;"Correct."</p>
+  <p><span style="color:rgb(170,0,0);">DTTA_TWR:</span>&emsp;"Correct."</p>
 </div>
 </blockquote>
 
