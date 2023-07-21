@@ -21,7 +21,6 @@ theme:
   logo: https://cdn.discordapp.com/attachments/991795403093721108/1118961763577237514/test.png
   features:
     - navigation.tabs
-    - navigation.sections
     - toc
     - breadcrumbs
     - navigation.instant
