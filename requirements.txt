@@ -5,3 +5,4 @@ mkdocs-exclude-search
 mkdocs-embed-external-markdown
 mkdocs-git-revision-date-localized-plugin
 mike
+mkdocs
