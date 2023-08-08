@@ -51,8 +51,12 @@ extra:
     provider: mike
 
 markdown_extensions:
+  - meta
   - attr_list
   - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
