@@ -491,7 +491,7 @@ Aircraft may be instructed to maintain their separation visually if speed contro
 Instructions to carry out a missed approach may be given to avert an unsafe situation. When a missed approach is initiated, cockpit workload is inevitably high. Any transmissions to aircraft going around should be brief and kept to a minimum.
 
 <blockquote>
-"Syphax 14 Tango, go around".
+"Syphax 14 Tango, go around, I say again, go around, acknowledge".
 </blockquote>
 
 Once the traffic has acknowledged the instruction and is observed to be safely climbing away, they shall be handed off to the Approach controller.
