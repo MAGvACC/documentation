@@ -462,13 +462,13 @@ a collision will exist if action is not taken immediately.
 VFR aircraft may be instructed to maintain visual separation with preceding aircraft and given a take-off clearance if no wake turbulence or flow separation minima exist.
 
 <blockquote>
-"Royal Air Maroc 810 delta, wind 070 degrees, 12 knots, runway 35L, cleared for take-off".
+"Royal Air Maroc 810 delta, cleared for take-off 35R, wind 070 degrees, 12 knots.".
 </blockquote>
 
 When traffic is clear of DER (if there is no WTS minima) or the respective minima between the two aircraft, a departure may be cleared for aircraft that do not require separation along the same flow point or a WTS minima greater than 7 NM. However, the controller shall provide traffic information as appropriate to ensure traffic is separated upon TMA entry.
 
 <blockquote>
-"Royal Air Maroc 810 delta, wind 070 degrees, 12 knots, runway 35L, cleared for take-off, proceeding traffic ATR-600".
+"Royal Air Maroc 810 delta, R, wind 070 degrees, 12 knots, proceeding traffic ATR-600".
 </blockquote>
 
 ADC shall use caution when departing aircraft with different speed profiles and is fully responsible for ensuring that horizontal or vertical separation exists at all times. It is thus advised that a VFR aircraft on a visual climbout must turn more than 45° from the runway track in order to allow succeeding IFR traffic to depart with separation of less than 3 NM in trail.
@@ -541,7 +541,7 @@ Only after prior coordination with Approach shall traffic that requests clearanc
 VFR aircraft wishing to do circuits at Casablanca shall receive clearance in the following format:
 
 <blockquote>
-“CN-BOB, runway 35L, standard circuit, 1 700 ft, VFR”.
+“CN-BOB, runway 35L, standard [LEFT/] circuit, 1 700 ft, VFR”.
 </blockquote>
 
 VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with Tower and shall either be assigned right-hand patterns for runway 17R or standard circuits (left-hand) for runway 35L.
@@ -603,7 +603,7 @@ The three stages of Low Visibility Procedures are:
 </table>
 
 <blockquote>
-"Royal Air Maroc 1415, wind 070 degrees, 12 knots, runway 35L, cleared to land, runway visual range 650 metres, 700 metres and 600 metres”.
+"Royal Air Maroc 1415, runway 35L, cleared to land, wind 070 degrees, 12 knots, runway visual range 650 metres, 700 metres and 600 metres”.
 </blockquote>
 
 Arriving aircraft should be given the easiest taxi route to allow them to clear the localiser-sensitive area expeditiously.
