@@ -1,3 +1,8 @@
+{% extends "base.html" %}
+
+{% block announce %}
+    <strong>Please Note</strong>: V2 Documentation for Maghreb is now in development. This will not be updated now unless required.
+{% endblock %}
 
 <figure class="image image_resized" style="width:100%;"><img src="https://cdn.discordapp.com/attachments/1043977354164306062/1115022450825105418/Maghreb_vACC_1_copy.png"></figure>
 <br>
