@@ -1,0 +1,223 @@
+[data-md-color-scheme="marvacc"] {
+  --md-primary-fg-color:        #161616;
+  --md-primary-fg-color--light: #161616;
+  --md-primary-fg-color--dark:  #161616;
+}
+
+.md-search-result .md-typeset {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.md-typeset h1 {
+  color: #212121;
+  font-family: var(--header-font), sans-serif;
+  font-weight: 550;
+  size: 2em;
+}
+
+.md-typeset .md-content__button {
+  display: none;
+}
+
+[dir=ltr] .md-typeset :is(.admonition-title,summary) {
+  padding-left: 1.0rem;
+  padding-right: .6rem;
+}
+
+[dir=ltr] .md-typeset :is(.admonition-title,summary):before {
+  display: none;
+}
+
+.md-typeset :is(.admonition,details) {
+  background-color: var(--md-admonition-bg-color);
+  border: 0 solid #999;
+  border-radius: .1rem;
+  box-shadow: var(--md-shadow-z1);
+  color: var(--md-admonition-fg-color);
+  display: flow-root;
+  font-size: .64rem;
+  margin: 1.5625em 0;
+  padding: 0 .6rem;
+  page-break-inside: avoid;
+}
+
+.md-typeset :is(.admonition-title,summary) {
+  background-color: rgba(135, 135, 135, 0.1);
+  border: none;
+  font-weight: 700;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0.4rem;
+  padding-top: 0.4rem;
+  position: relative;
+}
+
+body { counter-reset: h1counter h2counter h3counter h4counter h5counter h6counter; }
+
+h1 { counter-reset: h2counter; }
+h2 { counter-reset: h3counter; }
+h3 { counter-reset: h4counter; }
+h4 { counter-reset: h5counter; }
+h5 { counter-reset: h6counter; }
+h6 {}
+
+h2:before {
+    counter-increment: h2counter;
+    content: counter(h2counter) ".\0000a0\0000a0";
+}
+
+h3:before {
+    counter-increment: h3counter;
+    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+}
+
+h4:before {
+    counter-increment: h4counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) ".\0000a0\0000a0";
+}
+
+h5:before {
+    counter-increment: h5counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) ".\0000a0\0000a0";
+}
+
+h6:before {
+    counter-increment: h6counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) ".\0000a0\0000a0";
+}
+
+.md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  font-family: var(--header-font), sans-serif;
+  font-weight: 400;
+  size: 2em;
+}
+
+.md-typeset h2 {
+  color: #212121;
+  text-decoration: none;
+  padding-bottom: 0.5em;
+}
+.md-typeset h3 {
+  color: #212121;
+}
+.md-typeset h4 {
+  padding-top: 1em;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.md-typeset h5 {
+  text-transform: capitalize;
+}
+
+.md-typeset h5, .md-typeset h6 {
+  color: var(--md-default-fg-color--light);
+  font-size: .95em;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  margin: 1.25em 0;
+}
+
+.md-typeset h6 {
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.md-ellipsis {
+  font-family: var(--header-font), sans-serif;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.md-typeset .md-button:is(:focus,:hover) {
+    background-color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+    color: black;
+}
+
+.md-typeset mark {
+  background-color: #244559;
+  color: white;
+  text-decoration: none;
+}
+
+td, th {
+  font-weight: 400;
+  vertical-align: center;
+}
+
+.md-typeset table:not([class]) :-webkit-any(th,td):not([align]) {
+    text-align: center;
+}
+
+.md-typeset table:not([class]) th {
+  font-weight: bold;
+  background-color: #999;
+  color: var(--md-default-bg-color);
+}
+
+.md-typeset table:not([class]) td {
+  border-top: .05rem solid var(--md-default-fg-color--lightest);
+  padding: .2375em 1.25em;
+  margin: auto;
+  vertical-align: middle;
+}
+
+div.text {
+  text-align: left;
+  font-size: medium;
+  padding-left: 2.5%;
+  padding-right: 15%
+}
+
+.md-typeset blockquote {
+  color: #313131;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+[dir=ltr] .md-typeset blockquote {
+  padding-left: 0.6rem;
+}
+
+.md-typeset figure img {
+  display: block;
+  margin: auto;
+}
+
+.md-typeset figcaption {
+  font-style: italic;
+  text-align: center;
+  max-width: 60;
+}
+
+img {
+  transition:transform 0.25s ease;
+}
+
+img:hover {
+  -webkit-transform:scale(1.035);
+  transform:scale(1.035);
+}
+
+.md-nav__icon md-icon {
+  display: none;
+}
+
+.md-nav__link:is(:focus,:hover) {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:focus, .md-typeset a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+  /*Announcement Bar*/
+  .md-banner {
+    background-color: var(--md-footer-bg-color--dark);
+    color: var(--md-footer-fg-color);
+    overflow: auto;
+    text-align: center;
+}
